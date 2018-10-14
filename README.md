@@ -22,6 +22,7 @@ Art competition
   ## Assumptions
   
   * Email is unique and valid
+  * During registeration, the artist enters his address for awards
   * In case of tie, the early participant gets the award
   * The modifires for voting and distribute award functions are commented out for fast execution
   * Person can only vote once per address & Admin cannot vote (modifier commented out)
