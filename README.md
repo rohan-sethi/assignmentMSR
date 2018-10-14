@@ -26,6 +26,7 @@ Art competition
   * The modifires for voting and distribute award functions are commented out for fast execution
   * Person can only vote once per address & Admin cannot vote (modifier commented out)
   * Admin calls `declareArtistAward()` function to get winner
+  * Contract uploader specifies the block number parameters upon deployment for registeration & voting `(9999999,9999999)` current
   * Running on kovan-test network for fast execution
   
   
