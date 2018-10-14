@@ -1,0 +1,2 @@
+# assignmentMSR
+Artist competition 
