@@ -1,0 +1,77 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.mb50{
+    margin-bottom: 50px;
+}
+
+.mt50{
+    margin-top: 50px;
+}
+
+.ml50{
+    margin-left: 50px;
+}
+
+.mr50{
+    margin-right: 50px;
+}
+
+p{
+    font-size: 18px !important;
+}
+
+.colorRed{
+    color: red;
+}
+
+.ml70p{
+    margin-left: 70%;
+}
+
+.c1,.c2{
+    border: solid 1px;
+    width: 233px;
+    margin: 5px;
+    padding: 2px;
+    text-align: left;
+    display: inline-block;
+    font-family: monospace;
+    font-size: small;
+    font-style: unset;
+    border-right: none;
+    border-left: none;
+    font-weight: bold;
+}
+
+.catappend{
+    margin:50px;
+    background: white;
+}
+
+.c1:hover{
+    background:aliceblue;
+}
+.c1{
+    background: antiquewhite;
+}
+.cathead{
+    color: darkgray;
+    font-weight: 800;
+    margin: 27px;
+    display: inline;
+}
+
+.navbar{
+    background: white;
+}
+
+.main {
+    margin-left: 80px;
+    margin-bottom: 50px;
+    border-bottom: solid;
+}
