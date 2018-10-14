@@ -24,7 +24,7 @@ Art competition
   * Email is unique and valid
   * During registeration, the artist enters his address for awards
   * In case of tie, the early participant gets the award
-  * The modifires for voting and distribute award functions are commented out for fast execution
+  * The modifires for voting and distribute award functions are commented out for fast testing
   * Person can only vote once per address & Admin cannot vote (modifier commented out)
   * Admin calls `declareArtistAward()` function to get winner
   * Contract uploader specifies the block number parameters upon deployment for registeration & voting `(9999999,9999999)` current
