@@ -3,7 +3,8 @@ Art competition
 
 ## Installation 
  * clone or download repo
- * run npm install ( Admin priviliges required for 'hdkey' npm )
+ * run- npm install ( Admin priviliges required for 'hdkey' npm )
+ * run- node server.js 
  * Port : 3001 on local host
  
  ## Contract
